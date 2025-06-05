@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0334ca96-1027-40a0-b8be-e38acf65632f" name="Changes" comment="ai prompt">
-      <change afterPath="$PROJECT_DIR$/task-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/styles.css" afterDir="false" />
+    <list default="true" id="0334ca96-1027-40a0-b8be-e38acf65632f" name="Changes" comment="task 2: ai prompt for css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +87,7 @@
       <workItem from="1749153120516" duration="350000" />
       <workItem from="1749153485817" duration="329000" />
       <workItem from="1749154780465" duration="405000" />
-      <workItem from="1749155204752" duration="3217000" />
+      <workItem from="1749155204752" duration="4328000" />
     </task>
     <task id="LOCAL-00001" summary="ai prompt">
       <option name="closed" value="true" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749157534807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 2: ai prompt for css">
+      <option name="closed" value="true" />
+      <created>1749159742199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749159742199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ai prompt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ai prompt" />
+    <MESSAGE value="task 2: ai prompt for css" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2: ai prompt for css" />
   </component>
 </project>
